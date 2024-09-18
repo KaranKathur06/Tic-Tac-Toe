@@ -60,11 +60,13 @@ This is a simple implementation of the classic Tic Tac Toe game using Python and
 
 ### Game Mode Selection:
 
-![Game Mode Selection](screenshot1.png)
+![image](https://github.com/user-attachments/assets/5bac2933-ff8e-4f23-b9b0-d3b4294b88eb)
+
 
 ### In-Game:
 
-![In-Game](screenshot2.png)
+![image](https://github.com/user-attachments/assets/c6df0083-3825-40da-8013-9e50a7b404af)
+
 
 ## Customization
 --------------
