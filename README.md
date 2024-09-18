@@ -76,7 +76,7 @@ You can modify the board size, change fonts, or even enhance the AI for smarter 
 ## License
 ----------
 
-This code is released under the MIT License. See the LICENSE file for details.
+This code is released under the MIT License. See the [LICENSE](https://github.com/KaranKathur06/Tic-Tac-Toe/blob/main/LICENSE) file for details.
 
 ## Contributing
 ------------
